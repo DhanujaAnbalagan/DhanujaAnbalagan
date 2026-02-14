@@ -1,128 +1,90 @@
 # Hi, I'm Dhanuja 👋
-### Computer Science Engineer 
+### CSE Student | AI Systems Builder | Backend Developer
 
-Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** with hands-on experience in **software engineering, applied AI systems, and embedded development**.
+Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** building **AI-powered applications, backend systems, and interactive ML tools**.
 
-I focus on building **real, end-to-end systems**, not just isolated models — combining **ML, backend engineering, and automation workflows**.
+I enjoy designing **end-to-end systems** — from model logic and APIs to automation workflows and user interfaces.
 
 ---
 
 ## About Me
 
 - B.Tech CSE (2023–2027)
-- Interested in:
+- Focus areas:
   - Machine Learning Systems
   - Backend Engineering
-  - Applied AI Systems
-  - Full Stack based systems
-  - Generative AI
+  - Generative AI Applications
+  - Full Stack Development
+  - Embedded Systems
+
+I’m particularly interested in **building explainable AI systems and production-style ML pipelines**.
 
 ---
 
 ## Technical Skills
 
-### Languages
-Python • C++ • JavaScript • C
-
-### Backend
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Databases
-MongoDB • MySQL
-
-### Machine Learning
-Scikit-learn • SVM • Model Evaluation • NLP Pipelines
-
-### Embedded Systems
-STM32 • ESP32 • FreeRTOS
-
-### Tools
-Git • Docker (basic) • Postman • VS Code
+**Languages:** Python • C++ • JavaScript • C  
+**Backend:** Node.js • Express • REST APIs • JWT  
+**Databases:** MongoDB • MySQL  
+**Machine Learning:** Scikit-learn • NLP • SVM • Model Evaluation  
+**Embedded Systems:** STM32 • ESP32 • FreeRTOS  
+**Tools:** Git • Docker (basic) • Postman • VS Code  
 
 ---
 
 ## Featured Projects
 
 ### Sentiment-Aware Conversational System
-Emotion-aware conversational AI that tracks sentiment trends over time and escalates psychological risk responsibly.
+A modular conversational AI system that tracks emotional trends across conversations and escalates psychological risk responsibly.
 
-Key ideas:
-- Negation-aware sentiment modeling
-- Conversation memory tracking
-- Risk escalation engine
-- Explainable AI reasoning
-- Modular architecture
+Built with:
+Python • scikit-learn • TF-IDF • Logistic Regression
 
-Tech:
-Python, scikit-learn, TF-IDF, Logistic Regression
+Focus:
+Explainable AI, temporal sentiment tracking, uncertainty handling
 
 ---
 
 ### AI Resume Evaluator Agent
-Autonomous AI system that evaluates resumes using a structured scoring framework and generates HTML recruiter reports.
+Autonomous AI workflow that evaluates resumes using a structured scoring framework and generates recruiter-ready HTML reports.
 
-Features:
-- Resume scoring framework
-- HTML email report generation
-- Telegram interaction
-- Make.com workflow automation
+Focus:
+Agent workflows, evaluation logic, automation pipelines
 
 ---
 
 ### Emotion Analytics System
-Real-time emotion detection system using webcam input.
+Real-time emotion detection pipeline using webcam input, smoothing logic, and CSV analytics logging.
 
-Features:
-- Emotion inference
-- Temporal smoothing
-- Dominant emotion tracking
-- CSV analytics logging
-- Visualization dashboard
+Focus:
+Computer vision pipeline design and temporal inference
 
 ---
 
 ### StudyHive (MERN Platform)
-Collaborative study platform with authentication and REST APIs.
+Collaborative study platform with authentication, REST APIs, and database-driven workflows.
 
 Stack:
 MongoDB • Express • React • Node.js
 
 ---
 
+### SVM Visualizer
+Interactive ML visualization tool showing decision boundaries and support vectors for different kernels.
+
+Focus:
+ML interpretability and interactive visualization
+
+---
+
 ### Digital OTP Lock (STM32)
 Embedded authentication system using keypad-based OTP validation.
 
-Concepts:
-Microcontrollers • GPIO • Input handling
+Focus:
+Microcontroller programming and hardware-software interaction
 
 ---
 
-### SVM Visualizer
-Interactive visualization tool for understanding kernel-based classification.
-
-Features:
-- Linear / Polynomial / RBF kernels
-- Canvas-based decision boundary rendering
-- Support vector visualization
-
----
-
-## Internship Experience
-
-**Software Intern — Avijo Digital Healthcare (2025)**  
-Worked on backend API development and healthcare workflow modules.
-
-**AI Intern — Teachnook (IIT Roorkee Program)**
-
----
-
-## Achievements
-
-- Flipkart Grid 7.0 — Finalist
-- Adobe India Hackathon — Round 3 Qualifier
-- Generative AI Buildathon — Nextwave
-
----
 
 ## Research Interests
 
@@ -138,7 +100,3 @@ Applied AI Systems
 Email: dhanujaanbalagan5@gmail.com  
 LinkedIn: https://linkedin.com/in/dhanujaanbalagan  
 GitHub: https://github.com/DhanujaAnbalagan
-
----
-
-⭐ Thanks for visiting my profile!
