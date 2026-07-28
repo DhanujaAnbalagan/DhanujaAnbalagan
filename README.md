@@ -66,28 +66,26 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
 
-# 🚀 Featured Projects
+Yes. GitHub supports this automatically using GitHub Readme Stats. It will always display the repositories that currently have the highest star count (or, depending on the card, your pinned repositories), so you don't have to update your README manually.
 
-These are my primary engineering projects. Click any repository card below to explore the implementation.
+Add this section to your profile README.md:
 
-<div align="center">
+## ⭐ Featured Repositories
 
-<!-- Replace repository names with your actual repo names -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ai-resume-evaluator&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=sentiment-aware-conversational-system&theme=github_dark" />
+</p>
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=Restaurant_Digital_Menu&theme=github_dark" />
+</p>
 
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
-
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
-
-[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
-
-[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
-
-[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=emotion-analytics-system&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=svm-visualizer&theme=github_dark" />
+</p>
 ---
 
 # 📊 GitHub Statistics
