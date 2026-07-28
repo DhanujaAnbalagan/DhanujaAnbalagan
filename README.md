@@ -68,33 +68,19 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 ## 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/DhanujaAnbalagan/ResumeFit-AI">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ResumeFit-AI&theme=github_dark&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/studyhive">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/GolfGive">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=GolfGive&theme=github_dark&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/pebNotes">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=pebNotes&theme=github_dark&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=autostream-agentic-lead-system&theme=github_dark&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=secure-task-management-system-&theme=github_dark&cache_seconds=1800" />
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ResumeFit-AI&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=autostream-agentic-lead-system&theme=github_dark"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=pebNotes&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=GolfGive&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=secure-task-management-system-&theme=github_dark"/>
+</p>
 ---
 
 ## 📊 GitHub Statistics
