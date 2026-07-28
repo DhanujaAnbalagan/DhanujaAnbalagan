@@ -65,8 +65,6 @@ I enjoy designing end-to-end software systems—from backend APIs and databases 
 Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
-
-
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -96,7 +94,10 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 </a>
 
 </p>
-# 📊 GitHub Statistics
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
