@@ -93,25 +93,99 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
 
-# 📊 GitHub Statistics
+# 📂 Explore More Projects
 
-<p align="center">
+Along with my featured work, I've built projects across **Artificial Intelligence, Full-Stack Development, NLP, Embedded Systems, Web Applications, and Automation**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DhanujaAnbalagan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanujaAnbalagan&layout=compact&theme=tokyonight&hide_border=true"/>
+<tr>
+<td>🤖 <a href="https://github.com/DhanujaAnbalagan/ResumeFit-AI">ResumeFit-AI</a></td>
+<td>AI-powered resume evaluation platform.</td>
+</tr>
 
-</p>
+<tr>
+<td>🧠 <a href="https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system">AutoStream Agentic Lead System</a></td>
+<td>AI workflow for automated lead generation.</td>
+</tr>
+
+<tr>
+<td>📝 <a href="https://github.com/DhanujaAnbalagan/pebNotes">pebNotes</a></td>
+<td>AI collaborative notes workspace.</td>
+</tr>
+
+<tr>
+<td>📚 <a href="https://github.com/DhanujaAnbalagan/studyhive">StudyHive</a></td>
+<td>MERN collaborative study platform.</td>
+</tr>
+
+<tr>
+<td>💬 <a href="https://github.com/DhanujaAnbalagan/sentiment-aware-conversational-system">Sentiment-Aware Conversational System</a></td>
+<td>Explainable NLP system with emotion tracking.</td>
+</tr>
+
+<tr>
+<td>🍽 <a href="https://github.com/DhanujaAnbalagan/Restaurant_Digital_Menu">Restaurant Digital Menu</a></td>
+<td>QR-based multilingual restaurant ordering system.</td>
+</tr>
+
+<tr>
+<td>😊 <a href="https://github.com/DhanujaAnbalagan/emotion-analytics-system">Emotion Analytics System</a></td>
+<td>Real-time emotion recognition and analytics.</td>
+</tr>
+
+<tr>
+<td>📈 <a href="https://github.com/DhanujaAnbalagan/svm-visualizer">SVM Visualizer</a></td>
+<td>Interactive visualization of SVM decision boundaries.</td>
+</tr>
+
+<tr>
+<td>🧩 <a href="https://github.com/DhanujaAnbalagan/BodyQuest-Discover">BodyQuest Discover</a></td>
+<td>Learning platform designed for autistic children.</td>
+</tr>
+
+<tr>
+<td>✨ <a href="https://github.com/DhanujaAnbalagan/AuraGlow">AuraGlow</a></td>
+<td>Responsive skincare product discovery website.</td>
+</tr>
+
+<tr>
+<td>🔐 <a href="https://github.com/DhanujaAnbalagan/Digital-OTP-Lock-STM32">Digital OTP Lock STM32</a></td>
+<td>Embedded authentication system using STM32.</td>
+</tr>
+
+<tr>
+<td>⚙️ <a href="https://github.com/DhanujaAnbalagan/FreeRTOS-Recursive-Mutex-Demo">FreeRTOS Recursive Mutex Demo</a></td>
+<td>Embedded systems synchronization demonstration.</td>
+</tr>
+
+<tr>
+<td>🧮 <a href="https://github.com/DhanujaAnbalagan/RabinKarp">Rabin-Karp Algorithm</a></td>
+<td>Efficient string matching implementation.</td>
+</tr>
+
+<tr>
+<td>📋 <a href="https://github.com/DhanujaAnbalagan/Interactive-Attendance-Management-System">Interactive Attendance Management System</a></td>
+<td>Attendance management application.</td>
+</tr>
+
+<tr>
+<td>⛳ <a href="https://github.com/DhanujaAnbalagan/GolfGive">GolfGive</a></td>
+<td>Modern web application for golf community engagement.</td>
+</tr>
+
+<tr>
+<td>🔒 <a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">Secure Task Management System</a></td>
+<td>Secure project and task management platform.</td>
+</tr>
+
+</table>
 
 ---
 
-# 📈 Contribution Graph
+⭐ Explore all repositories here:
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanujaAnbalagan&theme=tokyo-night&hide_border=true"/>
-
-</p>
+👉 **https://github.com/DhanujaAnbalagan?tab=repositories**
 
 ---
 
