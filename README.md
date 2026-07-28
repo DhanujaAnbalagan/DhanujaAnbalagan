@@ -66,9 +66,6 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
 
-Yes. GitHub supports this automatically using GitHub Readme Stats. It will always display the repositories that currently have the highest star count (or, depending on the card, your pinned repositories), so you don't have to update your README manually.
-
-Add this section to your profile README.md:
 
 ## ⭐ Featured Repositories
 
