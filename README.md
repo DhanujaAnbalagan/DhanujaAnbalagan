@@ -1,102 +1,148 @@
-# Hi, I'm Dhanuja 👋
-### CSE Student | AI Systems Builder | Backend Developer
+<div align="center">
 
-Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** building **AI-powered applications, backend systems, and interactive ML tools**.
+# Hi 👋 I'm Dhanuja A
 
-I enjoy designing **end-to-end systems** — from model logic and APIs to automation workflows and user interfaces.
+### Computer Science Undergraduate • AI Systems • Full-Stack Development • Backend Engineering
 
----
+Building practical software systems using **Artificial Intelligence**, **Machine Learning**, **Backend Engineering**, and **Embedded Systems**.
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dhanujaanbalagan/)
+[![GitHub](https://img.shields.io/badge/GitHub-DhanujaAnbalagan-black?logo=github)](https://github.com/DhanujaAnbalagan)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhanujaanbalagan5@gmail.com)
 
-- B.Tech CSE (2023–2027)
-- Focus areas:
-  - Machine Learning Systems
-  - Backend Engineering
-  - Generative AI Applications
-  - Full Stack Development
-  - Embedded Systems
-
-I’m particularly interested in **building explainable AI systems and production-style ML pipelines**.
+</div>
 
 ---
 
-## Technical Skills
+# 👨‍💻 About Me
 
-**Languages:** Python • C++ • JavaScript • C  
-**Backend:** Node.js • Express • REST APIs • JWT  
-**Databases:** MongoDB • MySQL  
-**Machine Learning:** Scikit-learn • NLP • SVM • Model Evaluation  
-**Embedded Systems:** STM32 • ESP32 • FreeRTOS  
-**Tools:** Git • Docker (basic) • Postman • VS Code  
+🎓 **B.Tech Computer Science & Engineering**  
+**Amrita Vishwa Vidyapeetham** (2023–2027)
 
----
+I enjoy designing end-to-end software systems—from backend APIs and databases to machine learning models, automation workflows, and interactive user interfaces.
 
-## Featured Projects
+### Areas of Interest
 
-### Sentiment-Aware Conversational System
-A modular conversational AI system that tracks emotional trends across conversations and escalates psychological risk responsibly.
-
-Built with:
-Python • scikit-learn • TF-IDF • Logistic Regression
-
-Focus:
-Explainable AI, temporal sentiment tracking, uncertainty handling
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full-Stack Development
+- ⚙️ Backend Engineering
+- 🔌 Embedded Systems
+- 🚀 Generative AI
 
 ---
 
-### AI Resume Evaluator Agent
-Autonomous AI workflow that evaluates resumes using a structured scoring framework and generates recruiter-ready HTML reports.
+# 🛠 Tech Stack
 
-Focus:
-Agent workflows, evaluation logic, automation pipelines
+### Programming Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Emotion Analytics System
-Real-time emotion detection pipeline using webcam input, smoothing logic, and CSV analytics logging.
+### Frontend
 
-Focus:
-Computer vision pipeline design and temporal inference
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
----
+### Backend
 
-### StudyHive (MERN Platform)
-Collaborative study platform with authentication, REST APIs, and database-driven workflows.
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
-Stack:
-MongoDB • Express • React • Node.js
+### AI / ML
 
----
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### SVM Visualizer
-Interactive ML visualization tool showing decision boundaries and support vectors for different kernels.
+### Tools
 
-Focus:
-ML interpretability and interactive visualization
-
----
-
-### Digital OTP Lock (STM32)
-Embedded authentication system using keypad-based OTP validation.
-
-Focus:
-Microcontroller programming and hardware-software interaction
+Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
 
+# 🚀 Featured Projects
 
-## Research Interests
+These are my primary engineering projects. Click any repository card below to explore the implementation.
 
-Machine Learning Systems  
-Distributed Systems  
-Backend Software Engineering  
-Applied AI Systems  
+<div align="center">
+
+<!-- Replace repository names with your actual repo names -->
+
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/DhanujaAnbalagan)
+
+</div>
 
 ---
 
-## Contact
+# 📊 GitHub Statistics
 
-Email: dhanujaanbalagan5@gmail.com  
-LinkedIn: https://linkedin.com/in/dhanujaanbalagan  
-GitHub: https://github.com/DhanujaAnbalagan
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=DhanujaAnbalagan&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhanujaAnbalagan&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanujaAnbalagan&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🏅 Flipkart Grid 7.0 — Finalist
+- 🏅 Adobe India Hackathon — Round 3 Qualifier
+- 🏅 Generative AI Buildathon — Nextwave
+- 🏅 NPTEL Certifications (Knowledge Representation & Reasoning, Internet of Things)
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Cloud Deployment
+- Docker & DevOps
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**  
+**dhanujaanbalagan5@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/dhanujaanbalagan/
+
+💻 **GitHub**  
+https://github.com/DhanujaAnbalagan
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+I enjoy learning, building, and contributing to projects that combine software engineering and AI to solve practical problems.
+
+⭐ Feel free to explore my repositories.
+
+</div>
