@@ -2,13 +2,15 @@
 
 # Hi 👋 I'm Dhanuja A
 
-### Computer Science Undergraduate • AI Systems • Full-Stack Development • Backend Engineering
+### Computer Science Undergraduate | AI Systems | Full-Stack Development | Backend Engineering
 
-Building practical software systems using **Artificial Intelligence**, **Machine Learning**, **Backend Engineering**, and **Embedded Systems**.
+Building practical software systems using Artificial Intelligence, Machine Learning, Backend Engineering, and Automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dhanujaanbalagan/)
-[![GitHub](https://img.shields.io/badge/GitHub-DhanujaAnbalagan-black?logo=github)](https://github.com/DhanujaAnbalagan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhanujaanbalagan5@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/dhanujaanbalagan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/DhanujaAnbalagan"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+<a href="mailto:dhanujaanbalagan5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 </div>
 
@@ -19,14 +21,14 @@ Building practical software systems using **Artificial Intelligence**, **Machine
 🎓 **B.Tech Computer Science & Engineering**  
 **Amrita Vishwa Vidyapeetham** (2023–2027)
 
-I enjoy designing end-to-end software systems—from backend APIs and databases to machine learning models, automation workflows, and interactive user interfaces.
+I enjoy building complete software systems—from AI models and backend APIs to automation workflows, databases, and user interfaces.
 
-### Areas of Interest
+My interests include:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- 🌐 Full-Stack Development
 - ⚙️ Backend Engineering
+- 🌐 Full-Stack Development
 - 🔌 Embedded Systems
 - 🚀 Generative AI
 
@@ -34,7 +36,7 @@ I enjoy designing end-to-end software systems—from backend APIs and databases 
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -44,20 +46,21 @@ I enjoy designing end-to-end software systems—from backend APIs and databases 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
 ### AI / ML
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ### Tools
@@ -65,123 +68,81 @@ I enjoy designing end-to-end software systems—from backend APIs and databases 
 Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ResumeFit-AI
-AI-powered resume evaluation platform that analyzes resumes using structured scoring and provides intelligent feedback.
-
-**Tech Stack:** Next.js • TypeScript • AI
-
-🔗 https://github.com/DhanujaAnbalagan/ResumeFit-AI
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AutoStream Agentic Lead System
-AI-driven lead generation platform that automates prospect discovery and outreach workflows.
-
-**Tech Stack:** JavaScript • AI • Automation
-
-🔗 https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📝 pebNotes
-AI-powered collaborative notes workspace featuring smart insights, autosave, analytics, and sharing.
-
-**Tech Stack:** Next.js • PostgreSQL • Gemini AI
-
-🔗 https://github.com/DhanujaAnbalagan/pebNotes
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 StudyHive
-Full-stack MERN collaborative learning platform with JWT authentication, REST APIs, and shared study rooms.
-
-**Tech Stack:** MongoDB • Express • React • Node.js
-
-🔗 https://github.com/DhanujaAnbalagan/studyhive
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⛳ GolfGive
-A modern web platform built with TypeScript for managing golf-related activities and user interactions.
-
-**Tech Stack:** TypeScript • React
-
-🔗 https://github.com/DhanujaAnbalagan/GolfGive
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Secure Task Management System
-Secure task management application with authentication, organized workflows, and project collaboration.
-
-**Tech Stack:** JavaScript • Full Stack
-
-🔗 https://github.com/DhanujaAnbalagan/secure-task-management-system-
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **ResumeFit-AI** | AI-powered resume evaluation platform that scores resumes, generates feedback, and automates recruiter-ready reports. | Next.js • TypeScript • AI |
+| 🧠 **AutoStream Agentic Lead System** | AI workflow that automates lead discovery, qualification, and outreach using agent-based automation. | JavaScript • AI |
+| 📝 **pebNotes** | AI-powered collaborative notes workspace featuring Gemini AI insights, autosave, analytics, and public sharing. | Next.js • PostgreSQL • Gemini AI |
+| 📚 **StudyHive** | MERN-based collaborative learning platform with JWT authentication, REST APIs, note sharing, and study rooms. | MongoDB • Express • React • Node.js |
+| 💬 **Sentiment-Aware Conversational System** | Explainable NLP system with temporal sentiment tracking, uncertainty handling, and risk escalation logic. | Python • Scikit-learn • NLP |
+| 🍽️ **Restaurant Digital Menu** | QR-based restaurant ordering platform with multilingual support, WhatsApp ordering, and responsive UI. | React • TypeScript • TailwindCSS |
 
 ---
 
 # 🏆 Achievements
 
-- 🏅 Flipkart Grid 7.0 — Finalist
-- 🏅 Adobe India Hackathon — Round 3 Qualifier
-- 🏅 Generative AI Buildathon — Nextwave
-- 🏅 NPTEL Certifications (Knowledge Representation & Reasoning, Internet of Things)
+- 🥇 Flipkart Grid 7.0 — Finalist
+- 🥈 Adobe India Hackathon — Round 3 Qualifier
+- 🤖 Generative AI Buildathon — Nextwave
+- 📚 NPTEL — Knowledge Representation & Reasoning
+- 🌐 NPTEL — Internet of Things
+- ☁️ AWS Cloud Foundations Training
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DhanujaAnbalagan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanujaAnbalagan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanujaAnbalagan&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
 - Large Language Models (LLMs)
-- AI Agents
+- AI Agents & Multi-Agent Systems
 - Retrieval-Augmented Generation (RAG)
-- Vector Databases
 - Cloud Deployment
 - Docker & DevOps
+- System Design
 
 ---
 
 # 📫 Connect With Me
 
 📧 **Email**  
-**dhanujaanbalagan5@gmail.com**
+<a href="mailto:dhanujaanbalagan5@gmail.com">dhanujaanbalagan5@gmail.com</a>
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/dhanujaanbalagan/
+<a href="https://www.linkedin.com/in/dhanujaanbalagan/">linkedin.com/in/dhanujaanbalagan</a>
 
 💻 **GitHub**  
-https://github.com/DhanujaAnbalagan
+<a href="https://github.com/DhanujaAnbalagan">github.com/DhanujaAnbalagan</a>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### ⭐ Thank you for visiting my GitHub!
 
-I enjoy learning, building, and contributing to projects that combine software engineering and AI to solve practical problems.
-
-⭐ Feel free to explore my repositories.
+I'm always eager to collaborate on AI, backend engineering, and full-stack development projects. Feel free to explore my repositories and connect with me.
 
 </div>
