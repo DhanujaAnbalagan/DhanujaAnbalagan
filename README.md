@@ -67,23 +67,35 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 ---
 
 
-## ⭐ Featured Repositories
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ai-resume-evaluator&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=sentiment-aware-conversational-system&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=Restaurant_Digital_Menu&theme=github_dark" />
-</p>
+<a href="https://github.com/DhanujaAnbalagan/ResumeFit-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ResumeFit-AI&theme=github_dark"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=emotion-analytics-system&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=svm-visualizer&theme=github_dark" />
+<a href="https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=autostream-agentic-lead-system&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/DhanujaAnbalagan/pebNotes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=pebNotes&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/DhanujaAnbalagan/GolfGive">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=GolfGive&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=secure-task-management-system-&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/DhanujaAnbalagan/studyhive">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark"/>
+</a>
+
 </p>
----
 
 # 📊 GitHub Statistics
 
