@@ -69,34 +69,49 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 ## 🚀 Featured Projects
 
-<p align="center">
-
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/DhanujaAnbalagan/ResumeFit-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ResumeFit-AI&theme=github_dark"/>
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/ResumeFit-AI" width="400">
 </a>
+</td>
 
+<td align="center">
 <a href="https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=autostream-agentic-lead-system&theme=github_dark"/>
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/autostream-agentic-lead-system" width="400">
 </a>
+</td>
+</tr>
 
+<tr>
+<td align="center">
 <a href="https://github.com/DhanujaAnbalagan/pebNotes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=pebNotes&theme=github_dark"/>
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/pebNotes" width="400">
 </a>
+</td>
 
-<a href="https://github.com/DhanujaAnbalagan/GolfGive">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=GolfGive&theme=github_dark"/>
-</a>
-
-<a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=secure-task-management-system-&theme=github_dark"/>
-</a>
-
+<td align="center">
 <a href="https://github.com/DhanujaAnbalagan/studyhive">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark"/>
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/studyhive" width="400">
 </a>
+</td>
+</tr>
 
-</p>
+<tr>
+<td align="center">
+<a href="https://github.com/DhanujaAnbalagan/GolfGive">
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/GolfGive" width="400">
+</a>
+</td>
 
+<td align="center">
+<a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">
+<img src="https://opengraph.githubassets.com/1/DhanujaAnbalagan/secure-task-management-system-" width="400">
+</a>
+</td>
+</tr>
+</table>
 # 📊 GitHub Statistics
 
 <div align="center">
