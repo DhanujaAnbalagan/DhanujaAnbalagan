@@ -189,10 +189,6 @@ I've also built projects across **Artificial Intelligence, Full-Stack Developmen
 - ⛳ GolfGive — https://github.com/DhanujaAnbalagan/GolfGive
 - 🔒 Secure Task Management System — https://github.com/DhanujaAnbalagan/secure-task-management-system-
 
-📌 **Explore all repositories:**  
-👉 https://github.com/DhanujaAnbalagan?tab=repositories
-
----
 
 ⭐ Explore all repositories here:
 
