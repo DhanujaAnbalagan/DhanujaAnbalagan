@@ -71,14 +71,94 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **ResumeFit-AI** | AI-powered resume evaluation platform that scores resumes, generates feedback, and automates recruiter-ready reports. | Next.js • TypeScript • AI |
-| 🧠 **AutoStream Agentic Lead System** | AI workflow that automates lead discovery, qualification, and outreach using agent-based automation. | JavaScript • AI |
-| 📝 **pebNotes** | AI-powered collaborative notes workspace featuring Gemini AI insights, autosave, analytics, and public sharing. | Next.js • PostgreSQL • Gemini AI |
-| 📚 **StudyHive** | MERN-based collaborative learning platform with JWT authentication, REST APIs, note sharing, and study rooms. | MongoDB • Express • React • Node.js |
-| 💬 **Sentiment-Aware Conversational System** | Explainable NLP system with temporal sentiment tracking, uncertainty handling, and risk escalation logic. | Python • Scikit-learn • NLP |
-| 🍽️ **Restaurant Digital Menu** | QR-based restaurant ordering platform with multilingual support, WhatsApp ordering, and responsive UI. | React • TypeScript • TailwindCSS |
+<table>
+
+<tr>
+<td width="50%">
+
+## 🤖 ResumeFit-AI
+
+AI-powered resume evaluation platform that analyzes resumes, scores candidates, and generates recruiter-ready reports.
+
+**Tech:** Next.js • TypeScript • AI
+
+🔗 https://github.com/DhanujaAnbalagan/ResumeFit-AI
+
+</td>
+
+<td width="50%">
+
+## 🧠 AutoStream Agentic Lead System
+
+AI workflow that automates lead discovery, qualification, and outreach using agent-based automation.
+
+**Tech:** JavaScript • AI • Automation
+
+🔗 https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📝 pebNotes
+
+AI-powered collaborative notes workspace featuring Gemini AI insights, analytics, autosave, and sharing.
+
+**Tech:** Next.js • PostgreSQL • Gemini AI
+
+🔗 https://github.com/DhanujaAnbalagan/pebNotes
+
+</td>
+
+<td>
+
+## 📚 StudyHive
+
+Full-stack MERN collaborative learning platform with JWT authentication, REST APIs, note sharing, and study rooms.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+🔗 https://github.com/DhanujaAnbalagan/studyhive
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 💬 Sentiment-Aware Conversational System
+
+Explainable NLP system that tracks conversational sentiment, emotional trends, and performs confidence-based risk escalation.
+
+**Tech:** Python • Scikit-learn • NLP
+
+🔗 https://github.com/DhanujaAnbalagan/sentiment-aware-conversational-system
+
+</td>
+
+<td>
+
+## 🍽️ Restaurant Digital Menu
+
+QR-based multilingual restaurant ordering platform with WhatsApp ordering and responsive UI.
+
+**Tech:** React • TypeScript • TailwindCSS
+
+🔗 https://github.com/DhanujaAnbalagan/Restaurant_Digital_Menu
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 ---
 
@@ -95,91 +175,22 @@ Git • GitHub • Docker • Postman • VS Code • Figma
 
 # 📂 Explore More Projects
 
-Along with my featured work, I've built projects across **Artificial Intelligence, Full-Stack Development, NLP, Embedded Systems, Web Applications, and Automation**.
+I've also built projects across **Artificial Intelligence, Full-Stack Development, Embedded Systems, NLP, Computer Vision, Web Development, and Algorithms**.
 
-<table>
+- 🤖 AI Resume Evaluator Agent — https://github.com/DhanujaAnbalagan/ai-resume-evaluator
+- 😊 Emotion Analytics System — https://github.com/DhanujaAnbalagan/emotion-analytics-system
+- 📈 Interactive SVM Visualizer — https://github.com/DhanujaAnbalagan/svm-visualizer
+- 🧩 BodyQuest Discover — https://github.com/DhanujaAnbalagan/BodyQuest-Discover
+- ✨ AuraGlow — https://github.com/DhanujaAnbalagan/AuraGlow
+- 🔐 Digital OTP Lock (STM32) — https://github.com/DhanujaAnbalagan/Digital-OTP-Lock-STM32
+- ⚙️ FreeRTOS Recursive Mutex Demo — https://github.com/DhanujaAnbalagan/FreeRTOS-Recursive-Mutex-Demo
+- 📋 Interactive Attendance Management System — https://github.com/DhanujaAnbalagan/Interactive-Attendance-Management-System
+- 🔍 Rabin-Karp String Matching — https://github.com/DhanujaAnbalagan/RabinKarp
+- ⛳ GolfGive — https://github.com/DhanujaAnbalagan/GolfGive
+- 🔒 Secure Task Management System — https://github.com/DhanujaAnbalagan/secure-task-management-system-
 
-<tr>
-<td>🤖 <a href="https://github.com/DhanujaAnbalagan/ResumeFit-AI">ResumeFit-AI</a></td>
-<td>AI-powered resume evaluation platform.</td>
-</tr>
-
-<tr>
-<td>🧠 <a href="https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system">AutoStream Agentic Lead System</a></td>
-<td>AI workflow for automated lead generation.</td>
-</tr>
-
-<tr>
-<td>📝 <a href="https://github.com/DhanujaAnbalagan/pebNotes">pebNotes</a></td>
-<td>AI collaborative notes workspace.</td>
-</tr>
-
-<tr>
-<td>📚 <a href="https://github.com/DhanujaAnbalagan/studyhive">StudyHive</a></td>
-<td>MERN collaborative study platform.</td>
-</tr>
-
-<tr>
-<td>💬 <a href="https://github.com/DhanujaAnbalagan/sentiment-aware-conversational-system">Sentiment-Aware Conversational System</a></td>
-<td>Explainable NLP system with emotion tracking.</td>
-</tr>
-
-<tr>
-<td>🍽 <a href="https://github.com/DhanujaAnbalagan/Restaurant_Digital_Menu">Restaurant Digital Menu</a></td>
-<td>QR-based multilingual restaurant ordering system.</td>
-</tr>
-
-<tr>
-<td>😊 <a href="https://github.com/DhanujaAnbalagan/emotion-analytics-system">Emotion Analytics System</a></td>
-<td>Real-time emotion recognition and analytics.</td>
-</tr>
-
-<tr>
-<td>📈 <a href="https://github.com/DhanujaAnbalagan/svm-visualizer">SVM Visualizer</a></td>
-<td>Interactive visualization of SVM decision boundaries.</td>
-</tr>
-
-<tr>
-<td>🧩 <a href="https://github.com/DhanujaAnbalagan/BodyQuest-Discover">BodyQuest Discover</a></td>
-<td>Learning platform designed for autistic children.</td>
-</tr>
-
-<tr>
-<td>✨ <a href="https://github.com/DhanujaAnbalagan/AuraGlow">AuraGlow</a></td>
-<td>Responsive skincare product discovery website.</td>
-</tr>
-
-<tr>
-<td>🔐 <a href="https://github.com/DhanujaAnbalagan/Digital-OTP-Lock-STM32">Digital OTP Lock STM32</a></td>
-<td>Embedded authentication system using STM32.</td>
-</tr>
-
-<tr>
-<td>⚙️ <a href="https://github.com/DhanujaAnbalagan/FreeRTOS-Recursive-Mutex-Demo">FreeRTOS Recursive Mutex Demo</a></td>
-<td>Embedded systems synchronization demonstration.</td>
-</tr>
-
-<tr>
-<td>🧮 <a href="https://github.com/DhanujaAnbalagan/RabinKarp">Rabin-Karp Algorithm</a></td>
-<td>Efficient string matching implementation.</td>
-</tr>
-
-<tr>
-<td>📋 <a href="https://github.com/DhanujaAnbalagan/Interactive-Attendance-Management-System">Interactive Attendance Management System</a></td>
-<td>Attendance management application.</td>
-</tr>
-
-<tr>
-<td>⛳ <a href="https://github.com/DhanujaAnbalagan/GolfGive">GolfGive</a></td>
-<td>Modern web application for golf community engagement.</td>
-</tr>
-
-<tr>
-<td>🔒 <a href="https://github.com/DhanujaAnbalagan/secure-task-management-system-">Secure Task Management System</a></td>
-<td>Secure project and task management platform.</td>
-</tr>
-
-</table>
+📌 **Explore all repositories:**  
+👉 https://github.com/DhanujaAnbalagan?tab=repositories
 
 ---
 
