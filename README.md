@@ -65,35 +65,81 @@ I enjoy designing end-to-end software systems—from backend APIs and databases 
 Git • GitHub • Docker • Postman • VS Code • Figma
 
 ---
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=ResumeFit-AI&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=autostream-agentic-lead-system&theme=github_dark"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=pebNotes&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=studyhive&theme=github_dark"/>
-</p>
+### 🤖 ResumeFit-AI
+AI-powered resume evaluation platform that analyzes resumes using structured scoring and provides intelligent feedback.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=GolfGive&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhanujaAnbalagan&repo=secure-task-management-system-&theme=github_dark"/>
-</p>
----
+**Tech Stack:** Next.js • TypeScript • AI
 
-## 📊 GitHub Statistics
+🔗 https://github.com/DhanujaAnbalagan/ResumeFit-AI
 
-<div align="center">
+</td>
 
-![](https://github-readme-stats.vercel.app/api?username=DhanujaAnbalagan&show_icons=true&theme=github_dark&hide_border=true)
+<td width="50%" valign="top">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DhanujaAnbalagan&theme=github-dark&hide_border=true)
+### 🤖 AutoStream Agentic Lead System
+AI-driven lead generation platform that automates prospect discovery and outreach workflows.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanujaAnbalagan&layout=compact&theme=github_dark&hide_border=true)
+**Tech Stack:** JavaScript • AI • Automation
 
-</div>
+🔗 https://github.com/DhanujaAnbalagan/autostream-agentic-lead-system
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 pebNotes
+AI-powered collaborative notes workspace featuring smart insights, autosave, analytics, and sharing.
+
+**Tech Stack:** Next.js • PostgreSQL • Gemini AI
+
+🔗 https://github.com/DhanujaAnbalagan/pebNotes
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 StudyHive
+Full-stack MERN collaborative learning platform with JWT authentication, REST APIs, and shared study rooms.
+
+**Tech Stack:** MongoDB • Express • React • Node.js
+
+🔗 https://github.com/DhanujaAnbalagan/studyhive
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛳ GolfGive
+A modern web platform built with TypeScript for managing golf-related activities and user interactions.
+
+**Tech Stack:** TypeScript • React
+
+🔗 https://github.com/DhanujaAnbalagan/GolfGive
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Secure Task Management System
+Secure task management application with authentication, organized workflows, and project collaboration.
+
+**Tech Stack:** JavaScript • Full Stack
+
+🔗 https://github.com/DhanujaAnbalagan/secure-task-management-system-
+
+</td>
+</tr>
+</table>
 
 ---
 
